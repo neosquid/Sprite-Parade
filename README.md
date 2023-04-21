@@ -1,7 +1,7 @@
 # Sprite-Parade
 ZX SPECTRUM NEXT Display 64 Animated Hardware Sprites
 
-Compile with SJASM plus
+Compile with SjASMplus
 
 sjasmplus  --zxnext=cspect src/main.asm
 
